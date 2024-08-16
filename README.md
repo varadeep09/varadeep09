@@ -1,6 +1,6 @@
 # Welcome to Vardeep’s GitHub!
 
-### 👋 About Me
+# 👋 About Me
 Hello! I am Varadeep, a passionate Student from Malla Reddy University.
 
 
