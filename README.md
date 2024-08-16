@@ -49,8 +49,8 @@ Here are a few Internships that I have completed:
   ### [Click here for link](https://github.com/varadeep09/OIB-SIP/blob/main/Task2.java)
 
 # Get In Touch
-[LinkedIn](https://www.linkedin.com/in/varadeep)
-[Email](tailorvaradeep17@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/varadeep)
+- [Email](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsMWffpFsKRKkkGcDFbQxKFcTZWFbzxZxQLxfmzsCZRJhdRdHsXxZrzsjnlMNDnSnbtDq) (tailorvaradeep17@gmail.com))
 
 
 
