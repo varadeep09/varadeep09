@@ -39,7 +39,7 @@ Here are a few Internships that I have completed:
   Predicting the email as spam or not based on the text provided using Naive Bayes Algorithm.
   ### [Click here for link](https://github.com/varadeep09/Sms_Spam_Classifier)
 
-### 1) OIB - SIP Internship on Java Development:
+### 2) OIB - SIP Internship on Java Development:
 -Completed two tasks in the span of 1 month:
 - ### Task 1: ATM Inteface
   Developed an Atm inteface to Register, Login, Deposit, Withdraw, Transfer and Check Balance from Account
