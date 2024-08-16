@@ -27,7 +27,7 @@ Developed a Machine Learning application for the end users who can predict the D
 ### [click here for project](https://github.com/varadeep09/Blood-Bank-Management-System/tree/main)
 
 
-### 🚀 Internships
+# 🚀 Internships
 Here are a few Internships that I have completed: 
 
 ### 1) Bharat Internship on Data Science:
