@@ -48,4 +48,9 @@ Here are a few Internships that I have completed:
   Developed a game to guess Number, within 3 rounds. Game helps you to guess a number by providing range.
   ### [Click here for link](https://github.com/varadeep09/OIB-SIP/blob/main/Task2.java)
 
+# Get In Touch
+[LinkedIn](https://www.linkedin.com/in/varadeep)
+[Email](tailorvaradeep17@gmail.com)
+
+
 
