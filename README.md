@@ -32,10 +32,10 @@ Here are a few Internships that I have completed:
 
 ### 1) Bharat Internship on Data Science:
 -Completed two tasks in this Internship in the span of 1 month:
-- Task 1: Titanic Survival Prediction
+- ### Task 1: Titanic Survival Prediction
   Predicting the survival of passengers on the Titanic is a classic machine learning problem. This project aims to apply Logistic Regression technique to analyze the Titanic dataset and build predictive models.
   ### [click here for link](https://github.com/varadeep09/Titanic_survival_Prediction)
-- Task 2: SMS Spam Classifiier
+- ### Task 2: SMS Spam Classifiier
   Predicting the email as spam or not based on the text provided using Naive Bayes Algorithm.
   ### [Click here for link](https://github.com/varadeep09/Sms_Spam_Classifier)
 
