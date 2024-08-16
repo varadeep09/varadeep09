@@ -5,7 +5,7 @@ Hello! I am Varadeep, a passionate Student from Malla Reddy University.
 
 
 
-### 🚀 Projects
+# 🚀 Projects
 Here are a few projects that I have worked in:
 
 
