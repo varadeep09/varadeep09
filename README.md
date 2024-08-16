@@ -50,7 +50,7 @@ Here are a few Internships that I have completed:
 
 # Get In Touch
 - [LinkedIn](https://www.linkedin.com/in/varadeep)
-- [Email](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsMWffpFsKRKkkGcDFbQxKFcTZWFbzxZxQLxfmzsCZRJhdRdHsXxZrzsjnlMNDnSnbtDq) (tailorvaradeep17@gmail.com))
+- [Email](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsMWffpFsKRKkkGcDFbQxKFcTZWFbzxZxQLxfmzsCZRJhdRdHsXxZrzsjnlMNDnSnbtDq)(tailorvaradeep17@gmail.com)
 
 
 
