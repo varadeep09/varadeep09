@@ -1,5 +1,6 @@
 Welcome to varadeep’s GitHub!
-👋 About Me
+
+![👋 About Me]
 Hello! I’m [Your Name], a passionate [Your Role] from [Your Location]. I’m dedicated to [Briefly describe your area of interest or expertise, e.g., building innovative software solutions, exploring machine learning, contributing to open-source projects].
 
 🌟 What I Do
