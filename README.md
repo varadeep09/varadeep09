@@ -31,7 +31,7 @@ Developed a Machine Learning application for the end users who can predict the D
 Here are a few Internships that I have completed: 
 
 ### 1) Bharat Internship on Data Science:
--Completed two tasks in this Internship in the span of 1 month:
+-Completed two tasks in the span of 1 month:
 - ### Task 1: Titanic Survival Prediction
   Predicting the survival of passengers on the Titanic is a classic machine learning problem. This project aims to apply Logistic Regression technique to analyze the Titanic dataset and build predictive models.
   ### [click here for link](https://github.com/varadeep09/Titanic_survival_Prediction)
@@ -39,5 +39,13 @@ Here are a few Internships that I have completed:
   Predicting the email as spam or not based on the text provided using Naive Bayes Algorithm.
   ### [Click here for link](https://github.com/varadeep09/Sms_Spam_Classifier)
 
+### 1) OIB - SIP Internship on Java Development:
+-Completed two tasks in the span of 1 month:
+- ### Task 1: ATM Inteface
+  Developed an Atm inteface to Register, Login, Deposit, Withdraw, Transfer and Check Balance from Account
+  ### [click here for link](https://github.com/varadeep09/OIB-SIP/blob/main/AtmInterface.java)
+- ### Task 2: Number Guessing Game 
+  Developed a game to guess Number, within 3 rounds. Game helps you to guess a number by providing range.
+  ### [Click here for link](https://github.com/varadeep09/OIB-SIP/blob/main/Task2.java)
 
 
